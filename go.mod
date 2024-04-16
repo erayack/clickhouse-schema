@@ -13,4 +13,6 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.24.2
 	golang.org/x/crypto v0.5.0 // indirect
+	github.com/ClickHouse/clickhouse-go/v2 v2.11.0
+
 )
