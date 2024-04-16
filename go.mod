@@ -3,6 +3,7 @@ module github.com/jimsmart/schema
 go 1.16
 
 require (
+	github.com/ClickHouse/clickhouse-go/v2 v2.11.0
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/go-sql-driver/mysql v1.7.0
@@ -13,6 +14,5 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.24.2
 	golang.org/x/crypto v0.5.0 // indirect
-	github.com/ClickHouse/clickhouse-go/v2 v2.11.0
 
 )
